@@ -302,8 +302,8 @@ footer {
   .container-home header nav a {
     text-decoration: none;
   }
-  .img {
-    width: 20px;
+  .view {
+    width: 60vw;
     margin-left: 10px;
     margin-right: 10px;
   }
